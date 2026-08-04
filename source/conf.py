@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'ספר מתמטיקה'
-copyright = '2026, AvivBinder'
+copyright = 'כל הזכויות שמורות לאביב בינדר. אין להעתיק או לפרסם אלא ברשותו'
 author = 'AvivBinder'
 release = '2026'
 
@@ -26,3 +26,5 @@ myst_enable_extensions = ["dollarmath", "amsmath"]
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 html_css_files = ['rtl.css']
+html_show_sourcelink = False
+html_show_sphinx = False

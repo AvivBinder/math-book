@@ -1,17 +1,37 @@
-.. AvivBinder documentation master file, created by
-   sphinx-quickstart on Tue Aug  4 23:00:00 2026.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+ספר מתמטיקה
+=============
 
-AvivBinder documentation
-========================
+ברוכים הבאים.
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+הספר הזה נולד מתוך אוסף תרגילים שצברתי לאורך השנים — כאלה שהיה בהם משהו
+מעניין, רעיון יפה או זווית לא שגרתית ששווה לשמור. במקום שיישארו מפוזרים
+במחברות, ריכזתי אותם כאן במקום אחד.
 
+לכל תרגיל מצורפת התשובה הסופית בלבד. הדרך אליה — היא העבודה שלכם, וזה
+בדיוק החלק המעניין.
+
+למי זה מיועד
+-------------
+
+* **תלמידי תיכון** שנערכים לבגרות ומחפשים תרגול מעבר לספר הלימוד
+* **סטודנטים** בקורסי מתמטיקה בסיסיים
+* **מורים** שמחפשים תרגילים לשיעור או לשיעורי בית
+* **כל מי שנהנה** מבעיה מתמטית טובה
+
+על המחבר
+---------
+
+אני **אביב בינדר**, בוגר תואר ראשון במדעי המחשב באוניברסיטה הפתוחה.
+
+לפני כן לימדתי מתמטיקה ומדעי המחשב בתיכון, ומשם הגיעה הנטייה לאסוף תרגילים
+טובים ולשמור אותם בצד.
+
+הספר הוא פרויקט מתמשך — נוסף אליו חומר מדי פעם. אם מצאתם טעות או שיש לכם
+תרגיל ששווה להיכנס, אשמח לשמוע.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :numbered:
+   :caption: תוכן העניינים:
 
+   chapter1
