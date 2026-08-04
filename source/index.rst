@@ -34,4 +34,4 @@
    :numbered:
    :caption: תוכן העניינים:
 
-   chapter1
+   matkonot/matkonet1
