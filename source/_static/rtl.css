@@ -79,8 +79,11 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 17px;
 }
 
-.rst-content pre,
-.rst-content code,
-.rst-content tt {
-    font-family: 'Consolas', monospace;
+.rst-content img,
+.rst-content figure,
+.rst-content .figure {
+    display: block !important;
+    margin: 0 auto 30px auto !important;
+    padding-bottom: 30px !important;
+    border-bottom: 1px solid #ccc !important;
 }
