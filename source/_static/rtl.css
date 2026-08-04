@@ -1,0 +1,52 @@
+body, .wy-nav-content, .rst-content {
+    direction: rtl;
+    text-align: right;
+}
+
+.wy-nav-side {
+    right: 0;
+    left: auto;
+}
+
+.wy-nav-content-wrap {
+    margin-right: 300px;
+    margin-left: 0;
+}
+
+.wy-side-nav-search,
+.wy-menu-vertical a {
+    text-align: right;
+}
+
+.wy-menu-vertical li.toctree-l1 a,
+.wy-menu-vertical li.toctree-l2 a,
+.wy-menu-vertical li.toctree-l3 a {
+    padding-right: 1.618em;
+    padding-left: 0;
+}
+
+.rst-content .toctree-wrapper ul,
+.rst-content ul,
+.rst-content ol {
+    padding-right: 2em;
+    padding-left: 0;
+}
+
+.wy-breadcrumbs {
+    direction: rtl;
+}
+
+.rst-content pre,
+.rst-content code,
+.rst-content .highlight {
+    direction: ltr;
+    text-align: left;
+}
+
+.math, .MathJax {
+    direction: ltr;
+}
+
+.rst-footer-buttons {
+    direction: ltr;
+}
