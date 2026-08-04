@@ -87,3 +87,20 @@ h1, h2, h3, h4, h5, h6 {
     padding-bottom: 30px !important;
     border-bottom: 1px solid #ccc !important;
 }
+/* ===== MOBILE ===== */
+@media screen and (max-width: 768px) {
+    .rst-content img {
+        max-width: 100% !important;
+        width: auto !important;
+        height: auto !important;
+    }
+    .wy-nav-content-wrap {
+        margin-right: 0;
+    }
+    body, .wy-nav-content, .rst-content {
+        font-size: 15px;
+    }
+    .rst-content iframe {
+        height: 500px !important;
+    }
+}
