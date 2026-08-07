@@ -67,6 +67,14 @@ h1, h2, h3, h4, h5, h6 {
     font-size: 17px;
 }
 
+/* ===== SIDEBAR ===== */
+.wy-menu-vertical li.toctree-l1 > a {
+    font-weight: bold !important;
+}
+.wy-menu-vertical li.toctree-l1 > a:before {
+    content: "📝 ";
+}
+
 /* ===== IMAGES ===== */
 .rst-content img,
 .rst-content figure,

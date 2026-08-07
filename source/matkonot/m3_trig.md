@@ -1,9 +1,9 @@
 # טריגונומטריה וגאומטריה
 
-```{image} images3/question7.png
+```{image} images3/m3_question7.png
 :width: 600px
 ```
 
-```{image} images3/question8.png
+```{image} images3/m3_question8.png
 :width: 600px
 ```

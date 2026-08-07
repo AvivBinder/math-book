@@ -1,9 +1,9 @@
 # סדרות והסתברות
 
-```{image} images2/question5.png
+```{image} images2/m2_question5.png
 :width: 600px
 ```
 
-```{image} images2/question6.png
+```{image} images2/m2_question6.png
 :width: 600px
 ```

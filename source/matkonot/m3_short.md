@@ -1,17 +1,17 @@
 # שאלות קצרות
 
-```{image} images3/question1.png
+```{image} images3/m3_question1.png
 :width: 600px
 ```
 
-```{image} images3/question2.png
+```{image} images3/m3_question2.png
 :width: 600px
 ```
 
-```{image} images3/question3.png
+```{image} images3/m3_question3.png
 :width: 600px
 ```
 
-```{image} images3/question4.png
+```{image} images3/m3_question4.png
 :width: 600px
 ```

@@ -1,13 +1,13 @@
 # חשבון דיפרנציאלי ואינטגרלי
 
-```{image} images2/m2_question9.png
+```{image} images5/m5_question9.png
 :width: 600px
 ```
 
-```{image} images2/m2_question10.png
+```{image} images5/m5_question10.png
 :width: 600px
 ```
 
-```{image} images2/m2_question11.png
+```{image} images5/m5_question11.png
 :width: 600px
 ```
