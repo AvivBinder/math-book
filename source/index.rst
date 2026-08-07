@@ -53,3 +53,5 @@
    :caption: תוכן העניינים:
 
    matkonot/matkonet1
+   matkonot/matkonet2
+   matkonot/matkonet3
